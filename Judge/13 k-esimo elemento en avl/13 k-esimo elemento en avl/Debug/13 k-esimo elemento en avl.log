@@ -1,0 +1,15 @@
+﻿  main.cpp
+c:\users\usuario\source\repos\13 k-esimo elemento en avl\13 k-esimo elemento en avl\treemap_avl.h(127): warning C4018: '<': no coinciden signed/unsigned
+  c:\users\usuario\source\repos\13 k-esimo elemento en avl\13 k-esimo elemento en avl\treemap_avl.h(126): note: durante la compilación de la función miembro de plantilla clase de 'void map<int,int,std::less<int>>::kesimo(const std::vector<int,std::allocator<_Ty>> &)'
+          with
+          [
+              _Ty=int
+          ]
+  c:\users\usuario\source\repos\13 k-esimo elemento en avl\13 k-esimo elemento en avl\main.cpp(29): note: vea la referencia a la creación de instancias de plantilla de función 'void map<int,int,std::less<int>>::kesimo(const std::vector<int,std::allocator<_Ty>> &)' que se está compilando
+          with
+          [
+              _Ty=int
+          ]
+  c:\users\usuario\source\repos\13 k-esimo elemento en avl\13 k-esimo elemento en avl\main.cpp(18): note: vea la referencia a la creación de instancias de plantilla clase de 'map<int,int,std::less<int>>' que se está compilando
+  13 k-esimo elemento en avl.vcxproj -> C:\Users\uSUARIO\source\repos\13 k-esimo elemento en avl\Debug\13 k-esimo elemento en avl.exe
+  13 k-esimo elemento en avl.vcxproj -> C:\Users\uSUARIO\source\repos\13 k-esimo elemento en avl\Debug\13 k-esimo elemento en avl.pdb (Partial PDB)

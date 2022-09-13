@@ -1,0 +1,23 @@
+﻿  main.cpp
+c:\users\usuario\source\repos\20 cuesta sumar\20 cuesta sumar\priorityqueue.h(39): warning C4018: '<': no coinciden signed/unsigned
+  c:\users\usuario\source\repos\20 cuesta sumar\20 cuesta sumar\priorityqueue.h(37): note: durante la compilación de la función miembro de plantilla clase de 'PriorityQueue<__int64,std::less<T>>::PriorityQueue(const std::vector<T,std::allocator<_Ty>> &,Comparator)'
+          with
+          [
+              T=__int64,
+              _Ty=__int64,
+              Comparator=std::less<__int64>
+          ]
+  c:\users\usuario\source\repos\20 cuesta sumar\20 cuesta sumar\main.cpp(50): note: vea la referencia a la creación de instancias de plantilla de función 'PriorityQueue<__int64,std::less<T>>::PriorityQueue(const std::vector<T,std::allocator<_Ty>> &,Comparator)' que se está compilando
+          with
+          [
+              T=__int64,
+              _Ty=__int64,
+              Comparator=std::less<__int64>
+          ]
+  c:\users\usuario\source\repos\20 cuesta sumar\20 cuesta sumar\main.cpp(26): note: vea la referencia a la creación de instancias de plantilla clase de 'PriorityQueue<__int64,std::less<T>>' que se está compilando
+          with
+          [
+              T=__int64
+          ]
+  20 cuesta sumar.vcxproj -> C:\Users\uSUARIO\source\repos\20 cuesta sumar\Debug\20 cuesta sumar.exe
+  20 cuesta sumar.vcxproj -> C:\Users\uSUARIO\source\repos\20 cuesta sumar\Debug\20 cuesta sumar.pdb (Partial PDB)
