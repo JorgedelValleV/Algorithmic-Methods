@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "57 alienigena infiltrado", "57 alienigena infiltrado\57 alienigena infiltrado.vcxproj", "{76A5F8DD-32AC-42A6-A80A-CA35735D0293}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76A5F8DD-32AC-42A6-A80A-CA35735D0293}.Debug|x64.ActiveCfg = Debug|x64
+		{76A5F8DD-32AC-42A6-A80A-CA35735D0293}.Debug|x64.Build.0 = Debug|x64
+		{76A5F8DD-32AC-42A6-A80A-CA35735D0293}.Debug|x86.ActiveCfg = Debug|Win32
+		{76A5F8DD-32AC-42A6-A80A-CA35735D0293}.Debug|x86.Build.0 = Debug|Win32
+		{76A5F8DD-32AC-42A6-A80A-CA35735D0293}.Release|x64.ActiveCfg = Release|x64
+		{76A5F8DD-32AC-42A6-A80A-CA35735D0293}.Release|x64.Build.0 = Release|x64
+		{76A5F8DD-32AC-42A6-A80A-CA35735D0293}.Release|x86.ActiveCfg = Release|Win32
+		{76A5F8DD-32AC-42A6-A80A-CA35735D0293}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1C1410E-056E-4090-BE3F-CD0CAA172113}
+	EndGlobalSection
+EndGlobal
