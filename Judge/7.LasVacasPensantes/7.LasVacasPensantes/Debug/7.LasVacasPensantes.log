@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\usuario\source\repos\7.lasvacaspensantes\7.lasvacaspensantes\source.cpp(18): warning C4018: '<': no coinciden signed/unsigned
+c:\users\usuario\source\repos\7.lasvacaspensantes\7.lasvacaspensantes\source.cpp(21): warning C4018: '<': no coinciden signed/unsigned
+c:\users\usuario\source\repos\7.lasvacaspensantes\7.lasvacaspensantes\source.cpp(27): warning C4018: '<': no coinciden signed/unsigned
+  7.LasVacasPensantes.vcxproj -> C:\Users\uSUARIO\source\repos\7.LasVacasPensantes\Debug\7.LasVacasPensantes.exe
+  7.LasVacasPensantes.vcxproj -> C:\Users\uSUARIO\source\repos\7.LasVacasPensantes\Debug\7.LasVacasPensantes.pdb (Partial PDB)

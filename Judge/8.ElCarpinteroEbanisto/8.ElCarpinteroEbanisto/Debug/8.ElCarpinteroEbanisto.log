@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\usuario\source\repos\8.elcarpinteroebanisto\8.elcarpinteroebanisto\source.cpp(14): warning C4018: '<': no coinciden signed/unsigned
+c:\users\usuario\source\repos\8.elcarpinteroebanisto\8.elcarpinteroebanisto\source.cpp(15): warning C4018: '<': no coinciden signed/unsigned
+  8.ElCarpinteroEbanisto.vcxproj -> C:\Users\uSUARIO\source\repos\8.ElCarpinteroEbanisto\Debug\8.ElCarpinteroEbanisto.exe
+  8.ElCarpinteroEbanisto.vcxproj -> C:\Users\uSUARIO\source\repos\8.ElCarpinteroEbanisto\Debug\8.ElCarpinteroEbanisto.pdb (Partial PDB)

@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\usuario\source\repos\9.mejornollevarmuchasmonedas\9.mejornollevarmuchasmonedas\source.cpp(18): warning C4018: '<': no coinciden signed/unsigned
+c:\users\usuario\source\repos\9.mejornollevarmuchasmonedas\9.mejornollevarmuchasmonedas\source.cpp(21): warning C4018: '<': no coinciden signed/unsigned
+  9.MejornoLlevarMuchasMonedas.vcxproj -> C:\Users\uSUARIO\source\repos\9.MejornoLlevarMuchasMonedas\Debug\9.MejornoLlevarMuchasMonedas.exe
+  9.MejornoLlevarMuchasMonedas.vcxproj -> C:\Users\uSUARIO\source\repos\9.MejornoLlevarMuchasMonedas\Debug\9.MejornoLlevarMuchasMonedas.pdb (Partial PDB)
