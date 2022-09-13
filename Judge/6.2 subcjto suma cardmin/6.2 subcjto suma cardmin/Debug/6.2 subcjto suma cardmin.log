@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\usuario\source\repos\6.2 subcjto suma cardmin\6.2 subcjto suma cardmin\main.cpp(34): warning C4018: '<=': no coinciden signed/unsigned
+c:\users\usuario\source\repos\6.2 subcjto suma cardmin\6.2 subcjto suma cardmin\main.cpp(40): warning C4018: '>=': no coinciden signed/unsigned
+  6.2 subcjto suma cardmin.vcxproj -> C:\Users\uSUARIO\source\repos\6.2 subcjto suma cardmin\Debug\6.2 subcjto suma cardmin.exe
+  6.2 subcjto suma cardmin.vcxproj -> C:\Users\uSUARIO\source\repos\6.2 subcjto suma cardmin\Debug\6.2 subcjto suma cardmin.pdb (Partial PDB)

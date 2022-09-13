@@ -1,0 +1,9 @@
+﻿  Source.cpp
+c:\users\usuario\source\repos\6.gradosseparacion\6.gradosseparacion\source.cpp(15): warning C4018: '<': no coinciden signed/unsigned
+c:\users\usuario\source\repos\6.gradosseparacion\6.gradosseparacion\source.cpp(25): warning C4018: '<': no coinciden signed/unsigned
+c:\users\usuario\source\repos\6.gradosseparacion\6.gradosseparacion\source.cpp(41): warning C4018: '<': no coinciden signed/unsigned
+c:\users\usuario\source\repos\6.gradosseparacion\6.gradosseparacion\source.cpp(42): warning C4018: '<': no coinciden signed/unsigned
+c:\users\usuario\source\repos\6.gradosseparacion\6.gradosseparacion\source.cpp(43): warning C4018: '<': no coinciden signed/unsigned
+c:\users\usuario\source\repos\6.gradosseparacion\6.gradosseparacion\source.cpp(53): warning C4018: '<': no coinciden signed/unsigned
+  6.GradosSeparacion.vcxproj -> C:\Users\uSUARIO\source\repos\6.GradosSeparacion\Debug\6.GradosSeparacion.exe
+  6.GradosSeparacion.vcxproj -> C:\Users\uSUARIO\source\repos\6.GradosSeparacion\Debug\6.GradosSeparacion.pdb (Partial PDB)

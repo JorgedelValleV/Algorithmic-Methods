@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\usuario\source\repos\5.tiroalpatindromo\5.tiroalpatindromo\source.cpp(21): warning C4018: '<': no coinciden signed/unsigned
+c:\users\usuario\source\repos\5.tiroalpatindromo\5.tiroalpatindromo\source.cpp(22): warning C4018: '<': no coinciden signed/unsigned
+  5.TiroalPatindromo.vcxproj -> C:\Users\uSUARIO\source\repos\5.TiroalPatindromo\Debug\5.TiroalPatindromo.exe
+  5.TiroalPatindromo.vcxproj -> C:\Users\uSUARIO\source\repos\5.TiroalPatindromo\Debug\5.TiroalPatindromo.pdb (Partial PDB)
