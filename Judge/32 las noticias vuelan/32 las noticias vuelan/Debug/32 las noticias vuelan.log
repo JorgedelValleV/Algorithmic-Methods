@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\usuario\source\repos\32 las noticias vuelan\32 las noticias vuelan\main.cpp(24): warning C4018: '<': no coinciden signed/unsigned
+c:\users\usuario\source\repos\32 las noticias vuelan\32 las noticias vuelan\main.cpp(80): warning C4018: '<': no coinciden signed/unsigned
+  32 las noticias vuelan.vcxproj -> c:\users\usuario\source\repos\32 las noticias vuelan\Debug\32 las noticias vuelan.exe
+  32 las noticias vuelan.vcxproj -> c:\users\usuario\source\repos\32 las noticias vuelan\Debug\32 las noticias vuelan.pdb (Partial PDB)
