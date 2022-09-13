@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\usuario\source\repos\2.el cazatesoros\2.el cazatesoros\source.cpp(15): warning C4018: '<=': no coinciden signed/unsigned
+c:\users\usuario\source\repos\2.el cazatesoros\2.el cazatesoros\source.cpp(18): warning C4018: '<=': no coinciden signed/unsigned
+  2.El cazatesoros.vcxproj -> C:\Users\uSUARIO\source\repos\2.El cazatesoros\Debug\2.El cazatesoros.exe
+  2.El cazatesoros.vcxproj -> C:\Users\uSUARIO\source\repos\2.El cazatesoros\Debug\2.El cazatesoros.pdb (Partial PDB)

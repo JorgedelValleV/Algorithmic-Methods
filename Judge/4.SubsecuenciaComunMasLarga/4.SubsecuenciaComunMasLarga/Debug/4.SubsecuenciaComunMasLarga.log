@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\usuario\source\repos\4.subsecuenciacomunmaslarga\4.subsecuenciacomunmaslarga\source.cpp(14): warning C4018: '<': no coinciden signed/unsigned
+c:\users\usuario\source\repos\4.subsecuenciacomunmaslarga\4.subsecuenciacomunmaslarga\source.cpp(15): warning C4018: '<': no coinciden signed/unsigned
+  4.SubsecuenciaComunMasLarga.vcxproj -> C:\Users\uSUARIO\source\repos\4.SubsecuenciaComunMasLarga\Debug\4.SubsecuenciaComunMasLarga.exe
+  4.SubsecuenciaComunMasLarga.vcxproj -> C:\Users\uSUARIO\source\repos\4.SubsecuenciaComunMasLarga\Debug\4.SubsecuenciaComunMasLarga.pdb (Partial PDB)

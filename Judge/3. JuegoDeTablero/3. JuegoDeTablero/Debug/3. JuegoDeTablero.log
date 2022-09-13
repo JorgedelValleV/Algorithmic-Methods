@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\usuario\source\repos\3. juegodetablero\3. juegodetablero\source.cpp(14): warning C4018: '<': no coinciden signed/unsigned
+c:\users\usuario\source\repos\3. juegodetablero\3. juegodetablero\source.cpp(17): warning C4018: '<': no coinciden signed/unsigned
+c:\users\usuario\source\repos\3. juegodetablero\3. juegodetablero\source.cpp(18): warning C4018: '<': no coinciden signed/unsigned
+c:\users\usuario\source\repos\3. juegodetablero\3. juegodetablero\source.cpp(33): warning C4018: '<': no coinciden signed/unsigned
+  3. JuegoDeTablero.vcxproj -> C:\Users\uSUARIO\source\repos\3. JuegoDeTablero\Debug\3. JuegoDeTablero.exe
+  3. JuegoDeTablero.vcxproj -> C:\Users\uSUARIO\source\repos\3. JuegoDeTablero\Debug\3. JuegoDeTablero.pdb (Partial PDB)
